@@ -1,4 +1,4 @@
-// var playlist = {};
+var playlist = {};
 var playlist = {
   'Marine Boudeau': 'Something',
   'Someone else': 'Something else'
